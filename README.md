@@ -46,4 +46,3 @@
 💼 **LinkedIn:** [linkedin.com/in/aishwarya-indi-2b6567137](https://www.linkedin.com/in/aishwarya-indi-2b6567137/)  
 
 ---
-⭐️ From [AishwaryaIndi](https://github.com/AishwaryaIndi)
