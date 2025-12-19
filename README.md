@@ -8,6 +8,14 @@
 
 ## 📂 Featured Projects
 
+### 🤖 [Legal Contract Negotiation Assistant](#)
+**Tech Stack:** Python · Streamlit · Llama 3.2 (Ollama) · Pandas  
+- Built an AI powered system that extracts key legal clauses from SaaS contracts using a lightweight local LLM.  
+- Designed a benchmarking engine that compares extracted terms against real industry agreements to identify unfavorable or risky clauses.  
+- Implemented an end to end workflow with clause extraction, percentile scoring, negotiation suggestions, and an interactive Streamlit UI for contract analysis.
+
+---
+
 ### 🍽️ [Restaurant Table Booking System](#)
 **Tech Stack:** Java · MongoDB · React · AWS · TypeScript  
 - Designed and developed a **full-stack restaurant booking platform** with **real-time table availability, request logging**, and **reservation analytics dashboards** using the MERN stack.  
@@ -29,14 +37,6 @@
 - Created a **Convolutional Neural Network (CNN)** model for **tumor classification**, benchmarking it against **SVM** and **KNN** models.  
 - Applied **image preprocessing**, **feature extraction**, and **deep learning classification** to enhance accuracy.  
 - Achieved improved detection results through **model tuning and performance evaluation**.
-
----
-
-### 🤖 [Legal Contract Negotiation Assistant](#)
-**Tech Stack:** Python · Streamlit · Llama 3.2 (Ollama) · Pandas  
-- Built an AI powered system that extracts key legal clauses from SaaS contracts using a lightweight local LLM.  
-- Designed a benchmarking engine that compares extracted terms against real industry agreements to identify unfavorable or risky clauses.  
-- Implemented an end to end workflow with clause extraction, percentile scoring, negotiation suggestions, and an interactive Streamlit UI for contract analysis.
 
 ---
 
