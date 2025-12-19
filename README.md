@@ -32,6 +32,22 @@
 
 ---
 
+### 🤖 [Legal Contract Negotiation Assistant](#)
+**Tech Stack:** Python · Streamlit · Llama 3.2 (Ollama) · Pandas  
+- Built an AI powered system that extracts key legal clauses from SaaS contracts using a lightweight local LLM.  
+- Designed a benchmarking engine that compares extracted terms against real industry agreements to identify unfavorable or risky clauses.  
+- Implemented an end to end workflow with clause extraction, percentile scoring, negotiation suggestions, and an interactive Streamlit UI for contract analysis.
+
+---
+
+### 🚗 [Electric Vehicle Adoption Forecasting System](#)
+**Tech Stack:** Python · Pandas · Scikit Learn · Matplotlib · Jupyter · Machine Learning
+- Built a state level EV adoption forecasting system that combines DMV registrations, Census demographics, charging infrastructure data, fuel prices, and incentive policies into a unified modeling pipeline.
+- Engineered features such as charger density, income normalization, lag based adoption trends, and growth rates, and trained time aware machine learning models where Linear Regression delivered the best future year performance.
+- Processed more than nineteen million raw DMV records from eight states, performed extensive preprocessing and visualization, and produced clear insights about the economic and infrastructure factors that drive EV adoption.
+
+---
+
 ## 🛠️ Skills & Tools
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
 **Frameworks:** React, Vue.js, Node.js, TensorFlow, Flask  
