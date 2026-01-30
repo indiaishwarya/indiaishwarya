@@ -1,64 +1,202 @@
-# 👋 Hi, I'm Aishwarya Indi
+Perfect, thanks for the clarification. Below is **exact, ready-to-paste README.md content** with:
 
-🎓 **MS in Software Engineering @ San Jose State University**  
-💻 **Frontend & AI Engineer | Java | React | TypeScript | Python | AWS**  
-🚀 Passionate about building intelligent, scalable, and impactful software solutions.
+* ✅ **Your name appearing letter by letter (typing animation)**
+* ✅ **Professional tone**
+* ✅ **Light but polished animations**
+* ✅ **No big ASCII blocks**
+* ✅ **Optimized for SDE + AI/ML + Research**
+* ✅ **Internship + Full-time friendly**
+* ✅ **Recruiter-safe**
 
----
-
-## 📂 Featured Projects
-
-### 🤖 [Legal Contract Negotiation Assistant](#)
-**Tech Stack:** Python · Streamlit · Llama 3.2 (Ollama) · Pandas  
-- Built an AI powered system that extracts key legal clauses from SaaS contracts using a lightweight local LLM.  
-- Designed a benchmarking engine that compares extracted terms against real industry agreements to identify unfavorable or risky clauses.  
-- Implemented an end to end workflow with clause extraction, percentile scoring, negotiation suggestions, and an interactive Streamlit UI for contract analysis.
+You can **copy–paste this directly** into `README.md` of a repo named `indiaishwarya`.
 
 ---
 
-### 🍽️ [Restaurant Table Booking System](#)
-**Tech Stack:** Java · MongoDB · React · AWS · TypeScript  
-- Designed and developed a **full-stack restaurant booking platform** with **real-time table availability, request logging**, and **reservation analytics dashboards** using the MERN stack.  
-- Implemented **user authentication, secure APIs**, and deployed using **AWS Cloud** and **Git CI/CD pipelines**.  
-- Optimized frontend performance and enhanced user experience with **responsive UI** and **RESTful integration**.  
+````md
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Aishwarya+Indi" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=7FDBCA&center=true&vCenter=true&width=1000&lines=Software+Development+Engineer;AI%2FML+Engineer;Research-Oriented+Engineer;MS+Software+Engineering+%40+San+Jose+State+University" />
+
+</div>
 
 ---
 
-### 🚚 [FleetFlow – Delivery Management System](#)
-**Tech Stack:** Java · Vue.js  
-- Built a **B2B delivery management system** enabling **real-time tracking, automated shipment planning**, and **fleet coordination**.  
-- Developed **Java-based microservices** integrated with a **Vue.js dashboard** for dispatch and analytics.  
-- Improved delivery efficiency by automating scheduling and optimizing logistics routes.
+<div align="center">
+
+**SDE | AI/ML Engineer | Research-Focused Software Engineer**  
+MS Software Engineering @ San Jose State University  
+
+Ex-Amazon • Visa • Cisco • GE Healthcare  
+Actively seeking **Internships & Full-Time Roles**
+
+</div>
 
 ---
 
-### 🧠 [Tumor Detection using CNNs](#)
-**Tech Stack:** Python · TensorFlow · scikit-learn  
-- Created a **Convolutional Neural Network (CNN)** model for **tumor classification**, benchmarking it against **SVM** and **KNN** models.  
-- Applied **image preprocessing**, **feature extraction**, and **deep learning classification** to enhance accuracy.  
-- Achieved improved detection results through **model tuning and performance evaluation**.
+## 🎯 Current Status
+
+```text
+Role Targets      : SDE • AI/ML Engineer • Research Engineer
+Availability      : Internships + Full-Time
+Work Authorization: CPT / OPT Eligible
+Location          : San Jose, CA (Open to Relocation)
+Focus Areas       : Scalable Systems • Applied AI • Intelligent Software
+````
 
 ---
 
-### 🚗 [Electric Vehicle Adoption Forecasting System](#)
-**Tech Stack:** Python · Pandas · Scikit Learn · Matplotlib · Jupyter · Machine Learning
-- Built a state level EV adoption forecasting system that combines DMV registrations, Census demographics, charging infrastructure data, fuel prices, and incentive policies into a unified modeling pipeline.
-- Engineered features such as charger density, income normalization, lag based adoption trends, and growth rates, and trained time aware machine learning models where Linear Regression delivered the best future year performance.
-- Processed more than nineteen million raw DMV records from eight states, performed extensive preprocessing and visualization, and produced clear insights about the economic and infrastructure factors that drive EV adoption.
+## 👩‍💻 About Me
+
+I am a software engineer with strong experience in **frontend systems**, **enterprise applications**, and **AI-powered solutions**.
+My background spans **Big Tech engineering**, **research-driven ML**, and **production-grade system design**.
+
+I enjoy building software where:
+
+* engineering decisions are **data-driven**
+* systems are **scalable and maintainable**
+* AI is applied **responsibly and practically**
 
 ---
 
-## 🛠️ Skills & Tools
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frameworks:** React, Vue.js, Node.js, TensorFlow, Flask  
-**Cloud & DevOps:** AWS, Docker, CI/CD, Git, Jenkins  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Concepts:** AI/ML, Scalable Systems, Secure Coding, Accessibility  
+## 🧠 Technology Stack
+
+<div align="center">
+
+|  Languages |   Frontend   | Backend & Systems |    AI / ML    |
+| :--------: | :----------: | :---------------: | :-----------: |
+|    Java    |     React    |      Node.js      |   TensorFlow  |
+|   Python   |    Angular   |        Java       |  scikit-learn |
+| TypeScript | React Native |     REST APIs     |      CNNs     |
+|     SQL    |    Vue.js    |   Microservices   | Data Analysis |
+
+| Cloud & Tools |  Databases |   Core Concepts  |
+| :-----------: | :--------: | :--------------: |
+|      AWS      |   MongoDB  | Scalable Systems |
+|     Docker    | PostgreSQL |   Secure Coding  |
+|    Jenkins    |    MySQL   |   Accessibility  |
+|     GitHub    |    Redis   |   System Design  |
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-📫 **Email:** indiaishwarya97@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/aishwarya-indi-2b6567137](https://www.linkedin.com/in/aishwarya-indi-2b6567137/)  
+## 🚀 Featured Projects
+
+### 🤖 Legal Contract Negotiation Assistant
+
+**Python · Streamlit · Llama 3.2 · Pandas**
+
+* Built an AI-driven system to extract and analyze key legal clauses from SaaS contracts using a local LLM.
+* Benchmarked extracted clauses against real industry agreements to identify unfavorable terms.
+* Implemented clause scoring, negotiation suggestions, and an interactive Streamlit interface.
 
 ---
+
+### 🍽️ Restaurant Table Booking System
+
+**Java · React · TypeScript · MongoDB · AWS**
+
+* Developed a full-stack restaurant booking platform with real-time availability and analytics.
+* Implemented secure authentication, REST APIs, and CI/CD deployment on AWS.
+* Optimized frontend performance and delivered a responsive, accessible user experience.
+
+---
+
+### 🚚 FleetFlow – Delivery Management System
+
+**Java · Vue.js**
+
+* Built a B2B delivery management system for real-time fleet tracking and automated shipment planning.
+* Designed Java-based microservices integrated with a Vue.js dashboard.
+* Improved logistics efficiency through scheduling automation.
+
+---
+
+### 🧠 Tumor Detection Using CNNs
+
+**Python · TensorFlow · scikit-learn**
+
+* Implemented a CNN-based tumor classification system.
+* Benchmarked performance against SVM and KNN models.
+* Applied preprocessing, tuning, and evaluation techniques to improve accuracy.
+
+---
+
+### 🚗 Electric Vehicle Adoption Forecasting
+
+**Python · Pandas · scikit-learn · Visualization**
+
+* Built a state-level EV adoption forecasting pipeline using DMV, census, and infrastructure data.
+* Engineered temporal and economic features for time-aware ML models.
+* Generated insights on policy and infrastructure factors influencing EV adoption.
+
+---
+
+## 🔬 Research & Professional Experience
+
+```text
+Graduate Research Assistant @ San Jose State University
+• Research on distributed neural networks and model interpretability
+• Built Python-based experimentation and analysis pipelines
+
+Industry Experience
+• Visa – Global Click-to-Pay rollout across 50+ markets
+• Amazon – Scalable frontend systems for B2B platforms
+• Cisco & GE Healthcare – Accessibility, performance, reliability
+```
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=indiaishwarya&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiaishwarya&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aishwarya-indi-2b6567137/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:indiaishwarya97@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=999999&center=true&vCenter=true&width=900&lines=Building+reliable+software+today;Designing+intelligent+systems+for+tomorrow" />
+
+</div>
+```
+
+---
+
+### ✅ What this README does well
+
+* Looks **professional, not gimmicky**
+* Clearly positions you as **SDE + AI/ML + Research**
+* Easy for recruiters to scan
+* Subtle animations that **do not hurt credibility**
+
+If you want next:
+
+* slightly more animation
+* a darker theme
+* or a version optimized **only for ML research roles**
+
+tell me and I’ll tune it precisely 💯
