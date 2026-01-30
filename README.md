@@ -134,18 +134,6 @@ Industry Experience
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=indiaishwarya&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiaishwarya&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
