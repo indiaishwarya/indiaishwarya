@@ -1,18 +1,3 @@
-Perfect, thanks for the clarification. Below is **exact, ready-to-paste README.md content** with:
-
-* ✅ **Your name appearing letter by letter (typing animation)**
-* ✅ **Professional tone**
-* ✅ **Light but polished animations**
-* ✅ **No big ASCII blocks**
-* ✅ **Optimized for SDE + AI/ML + Research**
-* ✅ **Internship + Full-time friendly**
-* ✅ **Recruiter-safe**
-
-You can **copy–paste this directly** into `README.md` of a repo named `indiaishwarya`.
-
----
-
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Aishwarya+Indi" />
@@ -182,21 +167,3 @@ Industry Experience
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=999999&center=true&vCenter=true&width=900&lines=Building+reliable+software+today;Designing+intelligent+systems+for+tomorrow" />
 
 </div>
-```
-
----
-
-### ✅ What this README does well
-
-* Looks **professional, not gimmicky**
-* Clearly positions you as **SDE + AI/ML + Research**
-* Easy for recruiters to scan
-* Subtle animations that **do not hurt credibility**
-
-If you want next:
-
-* slightly more animation
-* a darker theme
-* or a version optimized **only for ML research roles**
-
-tell me and I’ll tune it precisely 💯
