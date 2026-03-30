@@ -69,13 +69,22 @@ I enjoy building software where:
 
 ## 🚀 Featured Projects
 
-### 🤖 Legal Contract Negotiation Assistant
+### 🤖 Recommendation System: SVD → Neural Collaborative Filtering
+**Python · PyTorch · Scikit-learn · Pandas · Matplotlib**
 
-**Python · Streamlit · Llama 3.2 · Pandas**
+* Built a two-stage recommendation engine using SVD matrix factorization and Neural Collaborative Filtering to model user-item interactions on sparse engagement data.
+* Implemented custom embedding layers and MLP-based interaction modeling in PyTorch, progressing from a classical linear baseline to a non-linear neural architecture.
+* Evaluated both models using ranking metrics (NDCG@K, Precision@K, MAP) rather than regression metrics, reflecting how recommendation quality is measured in production systems.
 
-* Built an AI-driven system to extract and analyze key legal clauses from SaaS contracts using a local LLM.
-* Benchmarked extracted clauses against real industry agreements to identify unfavorable terms.
-* Implemented clause scoring, negotiation suggestions, and an interactive Streamlit interface.
+---
+
+### 🎯 Recommendation System: SVD → Neural Collaborative Filtering
+**Python · PyTorch · Scikit-learn · Pandas · Matplotlib**
+* Built a two-stage recommendation engine using SVD matrix factorization and Neural Collaborative Filtering to model user-item interactions on sparse engagement data.
+* Implemented custom embedding layers and MLP-based interaction modeling in PyTorch, progressing from a classical linear baseline to a non-linear neural architecture.
+* Evaluated both models using ranking metrics (NDCG@K, Precision@K, MAP) rather than regression metrics, reflecting how recommendation quality is measured in production systems.
+
+🔗 [View Repository](https://github.com/indiaishwarya/recommendation-system-svd-ncf)
 
 ---
 
